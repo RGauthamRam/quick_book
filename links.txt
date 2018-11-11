@@ -1,0 +1,9 @@
+https://chrisalbon.com/python/web_scraping/monitor_a_website/
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://www.fullstackpython.com/blog/make-phone-calls-python.html
+
+https://www.pythonanywhere.com/user/InfiniteChaos/
+
+https://www.twilio.com/console
