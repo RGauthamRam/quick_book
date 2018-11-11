@@ -1,6 +1,7 @@
 # Quick Book
 
-Project uses BeautifulSoup to check when tickets are released in bookmyshow and calls if they are released
+Project uses BeautifulSoup to check when tickets are released in bookmyshow and calls if they are released.
+( Project not completed, made just for fun and practice.)
 
 ## Getting Started
 
@@ -70,9 +71,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+<!--* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)-->
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<!--See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.-->
 
 ## License
 
@@ -80,6 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* README.md - used template from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
